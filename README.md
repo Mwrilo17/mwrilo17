@@ -24,7 +24,11 @@ Sou Murilo Matias, estudante de Ciência da Computação na UCDB, com interesse 
     </a>
  </a>
 </p>
-![](https://leetcard.mwilo.cool/lapor?ext=contest)
+```
+
+[![](https://leetcard.jacoblin.cool/lapor?ext=contest)](https://leetcard.jacoblin.cool/lapor?ext=contest)
+
+```md
 ---
 
 ### 🤖 Linguagens e Tecnologias
