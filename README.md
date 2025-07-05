@@ -15,7 +15,7 @@ Sou Murilo Matias, estudante de Ciência da Computação na UCDB, com interesse 
             title="Meu Perfil do BeCrowd" 
             src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036"
         />
-    <a href="https://leetcode.com/u/mwilo/"
+    <a href="[![](https://leetcard.mwilo.cool/lapor?ext=contest)](https://leetcard.mwilo.cool/lapor?ext=contest)"
         <img 
             alt="LeetCode" 
             title="Meu Perfil do LeetCode" 
@@ -24,11 +24,10 @@ Sou Murilo Matias, estudante de Ciência da Computação na UCDB, com interesse 
     </a>
  </a>
 </p>
-```
 
-[![](https://leetcard.jacoblin.cool/lapor?ext=contest)](https://leetcard.jacoblin.cool/lapor?ext=contest)
 
-```md
+
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
