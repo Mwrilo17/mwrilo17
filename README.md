@@ -27,11 +27,13 @@ Sou Murilo Matias, estudante de Ciência da Computação na UCDB, com interesse 
 ### 📊 Estatísticas de Programação
 
 <p align="center">
-  <a href="https://leetcode.com/mwilou">
-    <img src="https://leetcard.jacoblin.cool/mwilou?ext=contest" alt="LeetCode mwilou" />
+  <a href="https://leetcode.com/mwilo">
+    <img src="https://leetcard.jacoblin.cool/mwilo?ext=contest" alt="LeetCode mwilo" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
   <a href="https://judge.beecrowd.com/en/profile/1156486">
-    <img src="https://www.beecrowd.com.br/judge/en/profile/1156486.png" alt="Beecrowd Profile" width="350px" />
+    <img src="https://img.shields.io/badge/Beecrowd-1156486-blue?style=for-the-badge&logo=codeforces" alt="Beecrowd Profile"/>
   </a>
 </p>
