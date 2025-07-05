@@ -22,16 +22,9 @@ Sou Murilo Matias, estudante de Ciência da Computação na UCDB, com interesse 
             src="https://avatars.githubusercontent.com/u/41718343?s=200&v=4"
         />
     </a>
-    <a href="https://github.com/Mwrilo17?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Mwrilo17?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
  </a>
 </p>
-
+![](https://leetcard.mwilo.cool/lapor?ext=contest)
 ---
 
 ### 🤖 Linguagens e Tecnologias
