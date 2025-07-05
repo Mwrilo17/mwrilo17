@@ -27,13 +27,6 @@ Me chamo Murilo Matias, tenho 17 anos e sou de Campo Grande MS. Atualmente, esto
         />
     </a>
  </a>
-    <a href="https://judge.beecrowd.com/en/profile/1156486">
-        <img 
-            alt="BEECROWD" 
-            title="Perfil BEECROWD" 
-            src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036"
-        />
-    </a>
 </p>
 
 ---
