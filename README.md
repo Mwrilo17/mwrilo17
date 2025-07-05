@@ -24,6 +24,6 @@ Sou Murilo Matias, estudante de Ciência da Computação na UCDB, com interesse 
 
 ---
 
-### 📊 Estatísticas LeetCode
+### 📊 Estatísticas de Programação
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mwilo?ext=contest)](https://leetcode.com/mwilo)
+<p a
