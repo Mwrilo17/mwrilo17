@@ -2,7 +2,10 @@
 
 **Desenvolvedor Iniciante**
 
-Me chamo Murilo Matias, tenho 17 anos e sou de Campo Grande MS. Atualmente, estou cursando Ciências da Computação na UCDB.
+##👋 Olá!
+##Sou Murilo Matias, estudante de Ciência da Computação na UCDB, com interesse em desenvolvimento de software. Atualmente, busco oportunidades para aplicar e expandir meus conhecimentos em programação, especialmente nas áreas de desenvolvimento web e mobile.
+
+##💡 Tenho 17 anos, sou de Campo Grande - MS, e estou em constante aprendizado, sempre explorando novas tecnologias e boas práticas de desenvolvimento.
 
 <p align="left">
     </a> 
