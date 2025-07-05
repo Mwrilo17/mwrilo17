@@ -12,14 +12,14 @@ Sou Murilo Matias, estudante de Ciência da Computação na UCDB, com interesse 
 <a href="https://judge.beecrowd.com/en/profile/1156486">
         <img 
             alt="BEECROWD" 
-            title="Perfil BEECROWD" 
+            title="Meu Perfil do BeCrowd" 
             src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036"
         />
-    <a href="https://github.com/Mwrilo17?tab=repositories&sort=stargazers">
+    <a href="https://leetcode.com/u/mwilo/"
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Mwrilo17?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="LeetCode" 
+            title="Meu Perfil do LeetCode" 
+            src="https://avatars.githubusercontent.com/u/41718343?s=200&v=4"
         />
     </a>
     <a href="https://github.com/Mwrilo17?tab=followers">
