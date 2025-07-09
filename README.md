@@ -9,6 +9,14 @@ Sou **Murilo Matias**, estudante de **Ciência da Computação** na **UCDB**, ap
 
 ---
 
+## ✨ Curiosidades
+
+- 💻 Meu foco atual está em front-end e lógica de programação.
+- 🌐 Também me interesso por desenvolvimento web com JS, HTML, CSS.
+- 📚 Gosto de estudar por meio de projetos práticos e desafios de programação.
+
+---
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
 <!-- CONTATO -->
@@ -31,11 +39,6 @@ Você pode me encontrar ou entrar em contato através dos links abaixo:
 ### 🧰 Tecnologias e Ferramentas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 
 </div>
 </div>
@@ -46,14 +49,6 @@ Você pode me encontrar ou entrar em contato através dos links abaixo:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mwrilo17&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mwrilo17&layout=compact&theme=dark)
-
----
-
-## ✨ Curiosidades
-
-- 💻 Meu foco atual está em front-end e lógica de programação.
-- 🌐 Também me interesso por desenvolvimento web com JS, HTML, CSS.
-- 📚 Gosto de estudar por meio de projetos práticos e desafios de programação.
 
 ---
 
