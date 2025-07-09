@@ -11,8 +11,8 @@ Sou **Murilo Matias**, estudante de **Ciência da Computação** na **UCDB**, ap
 
 ## ✨ Curiosidades
 
-- 💻 Meu foco atual está em front-end e lógica de programação.
-- 🌐 Também me interesso por desenvolvimento web com JS, HTML, CSS.
+- 💻 Meu foco atual está em back-end, front-end e lógica de programação.
+- 🌐 Também me interesso por desenvolvimento web com JS, HTML, CSS, alem de python.
 - 📚 Gosto de estudar por meio de projetos práticos e desafios de programação.
 
 ---
