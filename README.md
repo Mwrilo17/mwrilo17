@@ -17,15 +17,6 @@ Sou **Murilo Matias**, estudante de **Ciência da Computação** na **UCDB**, ap
 
 ---
 
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [Nome do Projeto 1](#) | Em breve aqui tera um projeto. | 
-| [Nome do Projeto 2](#) | Em breve aqui tera um projeto. | 
-
----
-
 ## 📬 Contato
 
 Você pode me encontrar ou entrar em contato através dos links abaixo:
